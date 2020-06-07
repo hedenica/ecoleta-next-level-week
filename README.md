@@ -32,7 +32,7 @@ Disponível via web e mobile com todas funcionalidades necessárias.
 
 #### 📜 LICENSE
 
- Esse projeto está sob a licença MIT. Veja o arquivo [MIT LICENSE](LICENSE.md) ara mais detalhes.
+ Esse projeto está sob a licença MIT. Veja o arquivo [MIT LICENSE](LICENSE.md) para mais detalhes.
 
 -----------------------------
 
